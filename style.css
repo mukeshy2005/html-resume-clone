@@ -1,0 +1,56 @@
+ #first{
+    display: inline-block;
+    background-color:#074173;
+    height:700px;
+    width: 250px;
+    text-align: center;
+    
+    
+ }
+ #second{
+    
+    width: 250px;
+    height: 100px;
+ }
+ #third{
+    width: 450px;
+    background-color:#9abfdf ;
+    border-radius: 5%;
+    
+ }
+ img{
+    margin-top: 30px;
+    
+ }
+ #first>div>h1{
+    color: white;
+ }
+ #first>div>p{
+    color: white;
+ }
+ #manas{
+   margin-top: 0%;
+ }
+ #master-div{
+    
+   float: right;
+   margin-left: 50px;
+   
+ }
+ #giant-div{
+   display: flex;
+   justify-content: center;
+   
+ }
+ #fifth{
+   width: 450px;
+   background-color:#9abfdf ;
+   border-radius: 5%;
+ }
+ #seven{
+   width: 450px;
+   background-color:#9abfdf ;
+   border-radius: 5%;
+ }
+
+ 
